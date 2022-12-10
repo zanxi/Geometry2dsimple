@@ -46,22 +46,8 @@ namespace ConsoleAppTest
             }
 
             Console.WriteLine("\n\n *************** Test действий с точкой и вектором ****************");
-
+            
             TestUtil.Operation();
-
-
-            //string[] mas = input.Split(' ');
-
-            //string text = "вапо445ы 37    ва аа8стй    9  0  аыв34аьафы 453 вшшнй1945ыврфс 68     х";
-            //List<string> listBox1 = new List<string>();
-            ////<string> listBox1 = new List<string>();
-
-            //listBox1.AddRange(
-            //    input.Split(new string[] { " " }, StringSplitOptions.RemoveEmptyEntries).
-            //    Where(t => int.TryParse(t, out int num)).
-            //    ToArray());
-
-
 
             Console.ReadKey();
         }
